@@ -1,0 +1,4 @@
+this is a temp dir for selenium download files
+the download file will delete after driver quit
+if you want to keep the temp file, you can annotation line 123 in main.py
+and rename the tmp file befor next start
